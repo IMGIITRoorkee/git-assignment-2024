@@ -5,4 +5,6 @@ Add you name and github profile here. Have fun with MERGE CONFLICTS (if you were
 - [Aditya Karwa](https://github.com/AdityaK-github)
 - [Aaditya Agarwal](https://github.com/psy-duck)
 - [Palak Gupta](https://github.com/Palakfs)
+- [Rayyan Khan](https://github.com/rkcoder101)
 - [Lakshita](https://github.com/lakshita10341)
+
