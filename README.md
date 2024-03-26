@@ -7,3 +7,4 @@ Add you name and github profile here. Have fun with MERGE CONFLICTS (if you were
 - [Aditya Karwa](https://github.com/AdityaK-github)
 - [Ayush Dhar Dubey](https://github.com/AyushDharDubey)
 - [Rayyan Khan](https://github.com/rkcoder101)
+- [Shivansh Kanodiya](https://github.com/shivansh041105)
