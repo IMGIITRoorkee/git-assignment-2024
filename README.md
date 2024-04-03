@@ -10,6 +10,7 @@ Add you name and github profile here. Have fun with MERGE CONFLICTS (if you were
 - [Jai Bhadu](https://github.com/jshishimaru)
 - [Ayush Dhar Dubey](https://github.com/AyushDharDubey)
 - [Rayyan Khan](https://github.com/rkcoder101)
+- [Shivansh Kanodiya](https://github.com/shivansh041105)
 - [Akshit Mandial](https://github.com/Akshit517)
 - [Anmol Goklani](https://github.com/AnmolGoklani)
 - [Ayush Dhar Dubey](https://github.com/AyushDharDubey)
