@@ -20,3 +20,4 @@ Add you name and github profile here. Have fun with MERGE CONFLICTS (if you were
 - [Aaryan Jain](https://github.com/IronJam11)
 - [Kavya Rajput](https://github.com/Kavya-spec-ui)
 - [Smit Bafna](https://github.com/Smitbafna)
+- [Tanay Kapadia](https://github.com/tanaykapadia/)
