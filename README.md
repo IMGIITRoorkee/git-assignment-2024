@@ -19,4 +19,5 @@ Add you name and github profile here. Have fun with MERGE CONFLICTS (if you were
 - [Adarsh Maurya](https://github.com/AdarshM-07)
 - [Aaryan Jain](https://github.com/IronJam11)
 - [Kavya Rajput](https://github.com/Kavya-spec-ui)
+- [Smit Bafna](https://github.com/Smitbafna)
 - [Himani Rathore](https://github.com/himani-r5)
