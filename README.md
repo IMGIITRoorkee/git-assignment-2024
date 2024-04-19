@@ -14,10 +14,15 @@ Add you name and github profile here. Have fun with MERGE CONFLICTS (if you were
 - [Rayyan Khan](https://github.com/rkcoder101)
 - [Akshit Mandial](https://github.com/Akshit517)
 - [Anmol Goklani](https://github.com/AnmolGoklani)
+- [Ayush Dhar Dubey](https://github.com/AyushDharDubey)
+- [Rayyan Khan](https://github.com/rkcoder101)
+- [Akshit Mandial](https://github.com/Akshit517)
 - [Ronit Chawla](https://github.com/rtb-12)
 - [Lakshita](https://github.com/lakshita10341)
 - [Adarsh Maurya](https://github.com/AdarshM-07)
 - [Aaryan Jain](https://github.com/IronJam11)
 - [Kavya Rajput](https://github.com/Kavya-spec-ui)
+
 - [Smit Bafna](https://github.com/Smitbafna)
-- [Himani Rathore](https://github.com/himani-r5)
+- [Himani Rathore](https://github.com/himani-r5
+- Aarchi Kothari](https://github.com/codingcat101)
